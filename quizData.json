@@ -1,6 +1,6 @@
 {
   "home": {
-     "image": "https://github.com/ToleonPrins/english-quiz-data/blob/main/kitchen.webp",
+     "image": "https://raw.githubusercontent.com/ToleonPrins/english-quiz-data/main/kitchen.webp",
     "kitchenItems": [
       {
         "emoji": "🍴",
@@ -273,6 +273,6 @@
     ]
   },
   "test": {
- "image": "https://github.com/ToleonPrins/english-quiz-data/blob/main/kitchen.webp",
+ "image": "https://raw.githubusercontent.com/ToleonPrins/english-quiz-data/main/kitchen.webp",
   }
 }
