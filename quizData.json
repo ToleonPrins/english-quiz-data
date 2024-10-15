@@ -272,6 +272,13 @@
     ]
   },
   "test": {
-    
+      "exampleItems": [
+    {
+      "emoji": "📘",
+      "question": "Пример",
+      "correct": "Example",
+      "options": ["Exmple", "Exampl", "Example", "Examlpe"]
+    }
+  ]
   }
 }
