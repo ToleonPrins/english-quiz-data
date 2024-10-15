@@ -1,0 +1,274 @@
+{
+  "home": {
+    "kitchenItems": [
+      {
+        "emoji": "🍴",
+        "question": "Вилка",
+        "correct": "Fork",
+        "options": ["Frok", "Forck", "Firk", "Fork"]
+      },
+      {
+        "emoji": "🥄",
+        "question": "Ложка",
+        "correct": "Spoon",
+        "options": ["Spoone", "Spun", "Spoon", "Spuun"]
+      },
+      {
+        "emoji": "🔪",
+        "question": "Нож",
+        "correct": "Knife",
+        "options": ["Knipe", "Knive", "Knife", "Knaif"]
+      },
+      {
+        "emoji": "🍽️",
+        "question": "Тарелка",
+        "correct": "Plate",
+        "options": ["Plat", "Plait", "Plote", "Plate"]
+      },
+      {
+        "emoji": "☕",
+        "question": "Кружка",
+        "correct": "Cup",
+        "options": ["Cop", "Cup", "Cuppe", "Cub"]
+      },
+      {
+        "emoji": "🥛",
+        "question": "Стакан",
+        "correct": "Glass",
+        "options": ["Glasse", "Glas", "Glass", "Gluss"]
+      },
+      {
+        "emoji": "🍳",
+        "question": "Сковородка",
+        "correct": "Pan",
+        "options": ["Pen", "Pann", "Pan", "Ponn"]
+      },
+      {
+        "emoji": "🍲",
+        "question": "Кастрюля",
+        "correct": "Pot",
+        "options": ["Pott", "Pote", "Pot", "Pat"]
+      },
+      {
+        "emoji": "🪑",
+        "question": "Стул",
+        "correct": "Chair",
+        "options": ["Cheir", "Chare", "Chair", "Chiar"]
+      },
+      {
+        "emoji": "🧊",
+        "question": "Холодильник",
+        "correct": "Fridge",
+        "options": ["Fridje", "Fride", "Fridge", "Frige"]
+      },
+      {
+        "emoji": "🍕",
+        "question": "Духовка",
+        "correct": "Oven",
+        "options": ["Ovin", "Ovon", "Oven", "Ovun"]
+      },
+      {
+        "emoji": "🚰",
+        "question": "Раковина",
+        "correct": "Sink",
+        "options": ["Sinke", "Sunk", "Sink", "Sinc"]
+      },
+      {
+        "emoji": "🧻",
+        "question": "Полотенце",
+        "correct": "Towel",
+        "options": ["Towal", "Towel", "Towell", "Tuwel"]
+      },
+      {
+        "emoji": "🍜",
+        "question": "Блюдо",
+        "correct": "Dish",
+        "options": ["Diche", "Dish", "Dishe", "Dush"]
+      },
+      {
+        "emoji": "🪑",
+        "question": "Стол",
+        "correct": "Table",
+        "options": ["Tabble", "Tabel", "Table", "Teble"]
+      }
+    ],
+    "bathroomItems": [
+      {
+        "emoji": "🚿",
+        "question": "Душ",
+        "correct": "Shower",
+        "options": ["Showr", "Shower", "Showir", "Shover"]
+      },
+      {
+        "emoji": "🛁",
+        "question": "Ванна",
+        "correct": "Bathtub",
+        "options": ["Bathub", "Bathtab", "Bathtub", "Bathup"]
+      },
+      {
+        "emoji": "🚽",
+        "question": "Туалет",
+        "correct": "Toilet",
+        "options": ["Tolett", "Toillet", "Toilet", "Tollet"]
+      },
+      {
+        "emoji": "🪥",
+        "question": "Зубная щетка",
+        "correct": "Toothbrush",
+        "options": ["Toothbruch", "Toothbrush", "Toothbresh", "Toothbrash"]
+      },
+      {
+        "emoji": "🪒",
+        "question": "Бритва",
+        "correct": "Razor",
+        "options": ["Razr", "Razor", "Rasor", "Razir"]
+      },
+      {
+        "emoji": "🧼",
+        "question": "Мыло",
+        "correct": "Soap",
+        "options": ["Soap", "Sope", "Soop", "Soupe"]
+      },
+      {
+        "emoji": "🪞",
+        "question": "Зеркало",
+        "correct": "Mirror",
+        "options": ["Miror", "Mirror", "Mirrer", "Mirrow"]
+      },
+      {
+        "emoji": "🧴",
+        "question": "Зубная паста",
+        "correct": "Toothpaste",
+        "options": ["Toothpaste", "Toothpast", "Toothpaist", "Tothpaste"]
+      },
+      {
+        "emoji": "🧴",
+        "question": "Шампунь",
+        "correct": "Shampoo",
+        "options": ["Shampoo", "Shammpoo", "Shamppo", "Shampoo"]
+      },
+      {
+        "emoji": "🧴",
+        "question": "Кондиционер",
+        "correct": "Conditioner",
+        "options": ["Conditoner", "Conditioner", "Conditionar", "Condtioner"]
+      },
+      {
+        "emoji": "🧻",
+        "question": "Туалетная бумага",
+        "correct": "Toilet paper",
+        "options": ["Toilet paper", "Toillet paper", "Tollet paper", "Toilet papr"]
+      },
+      {
+        "emoji": "🧖🏼‍♀️",
+        "question": "Коврик для ванной",
+        "correct": "Bath mat",
+        "options": ["Bath mat", "Bathmat", "Bat mat", "Batmat"]
+      },
+      {
+        "emoji": "🪝",
+        "question": "Вешалка для полотенец",
+        "correct": "Towel rack",
+        "options": ["Towel rack", "Towl rack", "Towell rack", "Towel rak"]
+      },
+      {
+        "emoji": "🪮",
+        "question": "Гребень",
+        "correct": "Comb",
+        "options": ["Comb", "Combe", "Com", "Coom"]
+      },
+      {
+        "emoji": "🪮",
+        "question": "Расческа",
+        "correct": "Hairbrush",
+        "options": ["Haerbrash", "Hairbrush", "Habrush", "Haerbrus"]
+      },
+      {
+        "emoji": "🧖🏼‍♀️",
+        "question": "Фен",
+        "correct": "Hairdryer",
+        "options": ["Hairdryer", "Hairdrir", "Haredryer", "Hairdryr"]
+      },
+      {
+        "emoji": "🪥",
+        "question": "Щетка",
+        "correct": "Brush",
+        "options": ["Brush", "Brash", "Brish", "Bruh"]
+      },
+      {
+        "emoji": "🚰",
+        "question": "Кран",
+        "correct": "Faucet",
+        "options": ["Faucet", "Faust", "Facuet", "Fauct"]
+      },
+      {
+        "emoji": "🚿",
+        "question": "Занавеска для душа",
+        "correct": "Shower curtain",
+        "options": ["Shower curtain", "Shower curtin", "Showir curtain", "Shover curtain"]
+      }
+    ],
+    "livingRoomItems": [
+      {
+        "emoji": "🛋️",
+        "question": "Диван",
+        "correct": "Sofa",
+        "options": ["Sofe", "Sofa", "Sope", "Soffa"]
+      },
+      {
+        "emoji": "🪑",
+        "question": "Кресло",
+        "correct": "Armchair",
+        "options": ["Armchare", "Armchair", "Armchiar", "Armcheir"]
+      },
+      {
+        "emoji": "🖥️",
+        "question": "Компьютер",
+        "correct": "Computer",
+        "options": ["Compiter", "Computer", "Compeuter", "Computar"]
+      },
+      {
+        "emoji": "🪟",
+        "question": "Окно",
+        "correct": "Window",
+        "options": ["Windoe", "Window", "Windo", "Winow"]
+      },
+      {
+        "emoji": "🚪",
+        "question": "Дверь",
+        "correct": "Door",
+        "options": ["Doore", "Dor", "Door", "Doir"]
+      },
+      {
+        "emoji": "🛋️",
+        "question": "Журнальный столик",
+        "correct": "Coffee table",
+        "options": ["Cofee table", "Coffe table", "Coffee table", "Coffe tabble"]
+      },
+      {
+        "emoji": "📺",
+        "question": "Телевизор",
+        "correct": "TV",
+        "options": ["TV", "Tvee", "Teve", "Teevee"]
+      },
+      {
+        "emoji": "🖼️",
+        "question": "Картина",
+        "correct": "Painting",
+        "options": ["Paiting", "Painting", "Paenting", "Paintig"]
+      },
+      {
+        "emoji": "🕰️",
+        "question": "Часы",
+        "correct": "Clock",
+        "options": ["Clok", "Clock", "Cluck", "Clack"]
+      },
+      {
+        "emoji": "🪴",
+        "question": "Растение",
+        "correct": "Plant",
+        "options": ["Plaint", "Plent", "Plant", "Plont"]
+      }
+    ]
+  }
+}
